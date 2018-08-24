@@ -1,0 +1,31 @@
+#head{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center; 
+}
+
+p{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center; 
+}
+
+#random-number{
+    font-size: 30px; 
+    text-align: center; 
+}
+
+#wins{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center; 
+}
+
+#losses{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center; 
+}
+
+
+
+#score{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center; 
+}
