@@ -9,7 +9,7 @@ p{
 }
 
 #random-number{
-    font-size: 30px; 
+    font-size: 25px; 
     text-align: center; 
 }
 
@@ -22,10 +22,23 @@ p{
     font-family: 'Press Start 2P', cursive;
     text-align: center; 
 }
+#donut1{
+    position: relative;
+    top: 15px; 
+}
 
+#donut-choices{
+    position: relative;
+    left: 267px; 
+}
 
 
 #score{
     font-family: 'Press Start 2P', cursive;
     text-align: center; 
+    
+}
+
+#totalScore{
+    font-size: 20px; 
 }
